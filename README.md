@@ -1,6 +1,6 @@
 # Meta Ad Library Intelligence Dashboard
 
-**Built by Braden Bourgeois** · [Live Dashboard →](https://your-url-here)
+**Built by Braden Bourgeois** · [Live Dashboard →](https://bbou122.github.io/Meta-Ad-Insights/)
 
 An interactive political and corporate advertising intelligence tool built entirely from Meta's public Ad Library data. No paid tools. No APIs. Just raw data, Python, and a single self-contained HTML file.
 
